@@ -3,10 +3,10 @@
 I’m a passionate **Software Developer** with a strong interest in building impactful solutions and exploring all things technology. I’m constantly improving my skills, learning new tools, and adapting quickly to new challenges.  
 
 - 🔭 **Currently working on:** Strengthening my backend development skills and building real-world projects  
-- 🌱 **Learning:** Go (Golang) and Java for backend systems  
+- 🌱 **Learning:** ruby and ruby on rails for backend systems  
 - 💬 **Ask me about:** Software development, problem-solving, and all things computers  
 - 📫 **Reach me at:** [okpararonald0@gmail.com](mailto:okpararonald0@gmail.com)  
-- ⚡ **Fun fact:** I drink water more than coffee — keeps the code flowing!  
+- ⚡ **Fun fact:** I drink water more than coffee, keeps the code flowing!  
 
 ---
 
