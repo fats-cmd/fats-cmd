@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ronald  
 
-I’m a passionate **Software Developer** with a strong interest in building impactful solutions and exploring all things technology. I’m constantly improving my skills, learning new tools, and adapting quickly to new challenges.  
+I’m a **Software Developer** with a strong interest in building impactful solutions and exploring all things technology. I’m constantly improving my skills, learning new tools, and adapting quickly to new challenges.  
 
 - 🔭 **Currently working on:** Strengthening my backend development skills and building real-world projects  
 - 🌱 **Learning:** ruby and ruby on rails for backend systems  
