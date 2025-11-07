@@ -4,7 +4,7 @@ I’m a **Software Developer** with a strong interest in building impactful solu
 
 - 🔭 **Currently working on:** Strengthening my backend development skills and building real-world projects  
 - 🌱 **Learning:** ??  
-- 💬 **Ask me about:** Software development, problem-solving, and all things computers  
+- 💬 **Ask me about:** Software development, and all things computers  
 - 📫 **Reach me at:** [okpararonald0@gmail.com](mailto:okpararonald0@gmail.com)  
 - ⚡ **Fun fact:** I drink water more than coffee, keeps the code flowing!  
 
